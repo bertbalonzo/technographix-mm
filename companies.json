@@ -1,0 +1,132 @@
+[
+    {
+        "company": "AlphaTech Inc.",
+        "domain": "alphatech.com",
+        "software": "Salesforce, Slack, Microsoft Office, Adobe Creative Suite, Trello"
+    },
+    {
+        "company": "BravoSoft Solutions",
+        "domain": "bravosoftsolutions.com",
+        "software": "Asana, G Suite, Tableau, Zoom, QuickBooks"
+    },
+    {
+        "company": "CharlieMedia",
+        "domain": "charliemedia.net",
+        "software": "Adobe Creative Suite, WordPress, Hootsuite, Mailchimp, Google Analytics"
+    },
+    {
+        "company": "DeltaIndustries",
+        "domain": "deltindustries.co",
+        "software": "AutoCAD, SAP, SolidWorks, Microsoft Office, Dropbox"
+    },
+    {
+        "company": "EchoHealth",
+        "domain": "echohealthcare.org",
+        "software": "Epic Systems, Cerner, Microsoft Teams, G Suite, Tableau"
+    },
+    {
+        "company": "FoxtrotConsulting",
+        "domain": "foxtrotconsulting.com",
+        "software": "Trello, Slack, HubSpot, Microsoft Office, G Suite"
+    },
+    {
+        "company": "GolfLogistics",
+        "domain": "golflogistics.net",
+        "software": "Salesforce, Oracle ERP, Tableau, Microsoft Office, Asana"
+    },
+    {
+        "company": "HotelDesigns",
+        "domain": "hoteldesigns.io",
+        "software": "SketchUp, InDesign, Trello, Microsoft Office, G Suite"
+    },
+    {
+        "company": "IndigoEducation",
+        "domain": "indigoedu.com",
+        "software": "Blackboard, Moodle, Google Classroom, Microsoft Office, Zoom"
+    },
+    {
+        "company": "JulietTech",
+        "domain": "juliettech.co",
+        "software": "Jira, GitHub, Python, AWS, Docker"
+    },
+    {
+        "company": "KiloInnovations",
+        "domain": "kiloinnovations.com",
+        "software": "Salesforce, Tableau, Microsoft Office, Slack, Zendesk"
+    },
+    {
+        "company": "LimaCreative",
+        "domain": "limacreative.net",
+        "software": "Adobe Creative Suite, WordPress, Sketch, InVision, Mailchimp"
+    },
+    {
+        "company": "MikeEngineers",
+        "domain": "mikeengineers.co",
+        "software": "SolidWorks, MATLAB, AutoCAD, Microsoft Office, Trello"
+    },
+    {
+        "company": "NovemberFinancial",
+        "domain": "novemberfinancial.com",
+        "software": "QuickBooks, Microsoft Office, Google Sheets, Salesforce, Expensify"
+    },
+    {
+        "company": "OscarRetail",
+        "domain": "oscarretail.org",
+        "software": "Shopify, Google Analytics, Mailchimp, G Suite, Hootsuite"
+    },
+    {
+        "company": "PapaServices",
+        "domain": "papaservices.com",
+        "software": "Asana, Freshdesk, Slack, Microsoft Office, Zoho"
+    },
+    {
+        "company": "QuebecTransport",
+        "domain": "quebectransport.net",
+        "software": "SAP, Google Maps API, Microsoft Office, Tableau, Trello"
+    },
+    {
+        "company": "RomeoEnergy",
+        "domain": "romeoenergy.co",
+        "software": "ANSYS, AutoCAD, Microsoft Office, G Suite, Python"
+    },
+    {
+        "company": "SierraAnalytics",
+        "domain": "sierraanalytics.io",
+        "software": "R, Python, Tableau, Microsoft Office, G Suite"
+    },
+    {
+        "company": "TangoConstruction",
+        "domain": "tangoconstruction.com",
+        "software": "Procore, Revit, Bluebeam, Microsoft Office, Smartsheet"
+    },
+    {
+        "company": "UniformSecurity",
+        "domain": "uniformsecurity.net",
+        "software": "Norton, Kaspersky, Splunk, Microsoft Office, Slack"
+    },
+    {
+        "company": "VictorMarketing",
+        "domain": "victormarketing.org",
+        "software": "HubSpot, Google Analytics, Mailchimp, Adobe Creative Suite, WordPress"
+    },
+    {
+        "company": "WhiskeyConsulting",
+        "domain": "whiskeyconsulting.com",
+        "software": "Trello, Slack, Microsoft Office, G Suite, Asana"
+    },
+    {
+        "company": "XrayEvents",
+        "domain": "xrayevents.co",
+        "software": "Eventbrite, Adobe Creative Suite, G Suite, Trello, Zoom"
+    },
+    {
+        "company": "YankeeBioscience",
+        "domain": "yankeebioscience.io",
+        "software": "MATLAB, R, Python, Microsoft Office, G Suite"
+    },
+    {
+        "company": "ZuluAutomation",
+        "domain": "zuluautomation.com",
+        "software": "LabVIEW, Python, Microsoft Office,"
+    }
+]
